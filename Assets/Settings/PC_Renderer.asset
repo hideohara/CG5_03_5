@@ -95,4 +95,4 @@ MonoBehaviour:
   m_Name: PostEffectRenderFeature
   m_EditorClassIdentifier: Assembly-CSharp::PostEffectRenderFeature
   m_Active: 1
-  postEffectMaterial_: {fileID: 2100000, guid: 7be88f0e4770b094d859e33e06cef5a8, type: 2}
+  postEffectMaterial_: {fileID: 2100000, guid: a2215fe122a3e0e4798ab0258d9addc1, type: 2}
