@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PostEffect_ToneCollection
-  m_Shader: {fileID: 4800000, guid: c7e9c87a2b45a8a46a11858cbf293c24, type: 3}
+  m_Name: PostEffect_ToneMapping
+  m_Shader: {fileID: 4800000, guid: 7ecf24e857469404782ef7b5f08277ee, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,9 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Ints: []
-    m_Floats:
-    - contrast: 1.17
-    - saturation: 1
+    m_Floats: []
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
