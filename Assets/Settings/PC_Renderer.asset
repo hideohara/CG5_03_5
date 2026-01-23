@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ToneMappingRenderFeature
   m_EditorClassIdentifier: Assembly-CSharp::ToneMappingRenderFeature
   m_Active: 1
-  postEffectMaterial_: {fileID: 2100000, guid: 7851c9e05cb08ca4bbe067cd2c1eb257, type: 2}
+  postEffectMaterial_: {fileID: 2100000, guid: 83cde7fd2b5c776438b922af06f6cad0, type: 2}
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84,7 +84,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69a8aba8d5386c047a769be0e4720b42, type: 3}
   m_Name: ClippingCheckRenderFeature
   m_EditorClassIdentifier: Assembly-CSharp::ClippingCheckRenderFeature
-  m_Active: 1
+  m_Active: 0
   postEffectMaterial_: {fileID: 2100000, guid: f0a641dc5b0b03e4c988542dc8c0a11b, type: 2}
 --- !u!114 &7833122117494664109
 MonoBehaviour:
