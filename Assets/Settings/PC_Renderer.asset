@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ffcd61e2aeb4c54c91bc416ca4ed07a, type: 3}
   m_Name: ToneMappingRenderFeature
   m_EditorClassIdentifier: Assembly-CSharp::ToneMappingRenderFeature
-  m_Active: 1
+  m_Active: 0
   postEffectMaterial_: {fileID: 2100000, guid: 83cde7fd2b5c776438b922af06f6cad0, type: 2}
 --- !u!114 &11400000
 MonoBehaviour:
@@ -124,5 +124,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0979d0d84051c0f4e9cc361199be69d8, type: 3}
   m_Name: PostEffectRenderFeature
   m_EditorClassIdentifier: Assembly-CSharp::PostEffectRenderFeature
-  m_Active: 0
-  postEffectMaterial_: {fileID: 2100000, guid: a2215fe122a3e0e4798ab0258d9addc1, type: 2}
+  m_Active: 1
+  blurMaterial_: {fileID: 2100000, guid: 83cde7fd2b5c776438b922af06f6cad0, type: 2}
+  passThroughMaterial_: {fileID: 2100000, guid: 78cd21296729e8443bd521e92c2e4251, type: 2}
